@@ -2,6 +2,8 @@
 Welcome to the gift I have prepared for you for the 9th day of the MVP Advent Calendar. 
 Thanks to Megan Walker for the great idea of bringing all the MVPs together for a great advent calendar. 
 
+![Advent Calendar](/Advent.png)
+
 I hope you enjoy it!
 
 ## Create an Azure AD App with Graph API permissions
