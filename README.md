@@ -1,6 +1,6 @@
-# MVP Advent Calendar
+# [MVP Advent Calendar](https://mvp-advent.meganvwalker.com/)
 Welcome to the gift I have prepared for you for the 9th day of the MVP Advent Calendar. 
-Thanks to Megan Walker for the great idea of bringing all the MVPs together for a great advent calendar. 
+Thanks to [Megan Walker](https://meganvwalker.com/) for the great idea of bringing all the MVPs together for a great advent calendar. 
 
 ![Advent Calendar](/Advent.png)
 
