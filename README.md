@@ -20,13 +20,13 @@ Only the part "First Step: Register an application in Azure Active Directory" is
 
 To use the Flows below, make sure to import them into Power Automate and replace the variables on the top of the Flows. The values that need to be replaced are clearly marked with `[REPLACE-WITH-*]` where * is the thing you need to replace it with.
 
-## [Graph API Flow 1 - Invite External User](/GraphAPIFlow-CreateTeam.zip)
+## Graph API Flow 1 - Invite External User [[Download]](https://github.com/Laskewitz/MVP-AdventCalendar/raw/master/GraphAPIFlow-InviteExternalUser.zip)
 This Flow will enable you to invite external users to your Azure Active Directory through Power Automate. It starts with a Flow Button, but I encourage you to use this in a different scenario. It's mostly to show you how it's done. In production scenarios I would use it after someone requests access for an external user. So make sure to try and use this with Microsoft Forms or other scenarios.
 
 ### Used Graph API calls
 * [Create Invitation](https://docs.microsoft.com/en-us/graph/api/invitation-post?view=graph-rest-1.0&tabs=http)
 
-## [Graph API Flow 2 - Create Team](/GraphAPIFlow-InviteExternalUser.zip)
+## Graph API Flow 2 - Create Team [[Download]](https://github.com/Laskewitz/MVP-AdventCalendar/raw/master/GraphAPIFlow-CreateTeam.zip)
 This Flow enables you to create a Microsoft Team on request. You can of course copy and paste this into your own process for Teams creation. 
 
 ### Used Graph API calls
